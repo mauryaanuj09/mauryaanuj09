@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋 World My Self Anuj Maurya</h1>
 <h3 align="center">Passionate about cloud technologies and software engineering.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mauryaanuj09&label=Profile%20views&color=0e75b6&style=flat" alt="mauryaanuj09" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mauryaanuj09" alt="mauryaanuj09" /></a> </p>
 
 - 🌱 I currently Studying **Bachelor of Computer Application**
 
