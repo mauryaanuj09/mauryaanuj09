@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋 World My Self Anuj Maurya</h1>
-<h3 align="center">Passionate about cloud technologies and software engineerin</h3>
-g.
+<h3 align="center">Passionate about cloud technologies and software engineering</h3>.
 
 
 
