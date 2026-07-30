@@ -1,9 +1,8 @@
 <h1 align="center">Hello 👋 World My Self Anuj Maurya</h1>
-<h3 align="center">Passionate about cloud technologies and software engineering.</h3>
+<h3 align="center">Passionate about cloud technologies and software engineerin</h3>
+g.
 
 
-
-- 🌱 I currently Studying **Bachelor of Computer Application**
 
 - 👨‍💻 All of my projects are a vailableat [https://github.com/mauryaanuj09/AWS-Cloud-2025](https://github.com/mauryaanuj09/AWS-Cloud-2025)
 
