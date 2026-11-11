@@ -35,7 +35,7 @@
 
 - **Email:** mauryaanuj3030@gmail.com
 - **LinkedIn:** [Anuj Maurya](https://www.linkedin.com/in/anuj-maurya-008042383)
-- **GitHub:** [mauryaanuj09](https://github.com/mauryaanuj09)
+- **GitHub:** [Anuj Maurya](https://github.com/mauryaanuj09)
 - **Instagram:** [@i_am_maurya.09](https://instagram.com/i_am_maurya.09)
 
 
