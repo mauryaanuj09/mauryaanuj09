@@ -1,19 +1,49 @@
-<h1 align="center">Hello 👋 World My Self Anuj Maurya</h1>
-<h3 align="center">Passionate about cloud technologies and software engineering</h3>.
 
+<h1 align="center">Hi 👋, I'm Anuj Maurya</h1>
 
+<h3 align="center">Data Analytics Enthusiast | Excel & Data Management</h3>
 
-- 👨‍💻 All of my projects are a vailableat [https://github.com/mauryaanuj09/AWS-Cloud-2025](https://github.com/mauryaanuj09/AWS-Cloud-2025)
-
-- 💬 Learned **AWS , Python, LINUX(Basic)**
-
-- 📫 How to reach me **mauryaanuj3030@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/i_am_maurya_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_maurya_09" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_maurya.09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_maurya.09" height="30" width="40" /></a>
+<p align="center">
+  Passionate about data management, data analysis, and creating meaningful insights from data.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 💼 About Me
+
+- Currently working at **Kamdhenu Cattle Feed Pvt. Ltd.**
+- Skilled in Microsoft Excel and Google Sheets.
+- Interested in data analysis, reporting, and dashboard creation.
+- Currently Executing Power BI, Power Query, and Power Pivot.
+- Experienced in managing digital files, maintaining records, and working with MS Word and PDF documents.
+- Always looking to learn new tools and improve my technical skills.
+
+---
+
+### 🛠️ Skills & Tools
+
+- **Microsoft Advance Excel:** Data Cleaning, Pivot Tables, Charts, Formulas, Dashboards
+- **Power Query & Power Pivot:**
+- **Google Sheets:** Data Entry, Data Management
+- **Power BI:** Executing
+- **MS Office:** MS Word, Excel
+- **Other Tools:** Git & GitHub
+
+---
+
+### 📫 Connect With Me
+
+- **Email:** mauryaanuj3030@gmail.com
+- **LinkedIn:** [Anuj Maurya](https://www.linkedin.com/in/anuj-maurya-008042383)
+- **GitHub:** [mauryaanuj09](https://github.com/mauryaanuj09)
+- **Instagram:** [@i_am_maurya.09](https://instagram.com/i_am_maurya.09)
+
+
+### 🖥️ Tools & Technologies
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
